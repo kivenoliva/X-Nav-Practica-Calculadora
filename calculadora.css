@@ -1,0 +1,33 @@
+body {
+  background-color: white;
+}
+
+
+#calculadora{
+    background-color: #808080;
+    border: solid 2px;
+    height: 300px;
+    width: 290px;
+    color: #58ACFA;
+    margin: 60px 0 0 400px;
+}
+
+#display{
+    color: #58ACFA;
+    background-color: black;
+    height: 50px;
+    width: 286px;
+    border: solid 2px;
+}
+
+#display p{
+    padding: 17px 5px;
+    color: white;
+    margin: 0 10px 0 0;
+}
+
+#botones{
+    padding: 20px 40px;
+    height: 400px;
+    width: 400px;
+}
